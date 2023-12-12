@@ -1,0 +1,14 @@
+LINK INSTAGRAM
+- https://www.instagram.com/gordinhomultimarcas_/
+LINK WHATSAPP
+- https://whats.link/gordinhomultimarcaswhats
+TEXTO INFORMATIVOS
+- Entregas em Mãos em Bezerros, Barra de Guabiraba, Camocim, Sairé e Cortês.
+PALETA DE CORES
+- #333233 cinza
+- #090909 preto
+- #ffff81 amarelo/fraco
+- #ffff56 amarelo/medio
+- #ffff00 amarelo/forte
+FONTES DE TEXTO
+- "Helvetica Neue", Helvetica, Arial, sans-serif;
